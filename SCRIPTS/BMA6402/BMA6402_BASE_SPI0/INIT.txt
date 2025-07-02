@@ -1,0 +1,3 @@
+{adc_init:{port:1,s_pre:100,s_std:100,avg:0},rc:0}	5
+{phy_init:{id:4,type:0,speed:10000000,speed_2:0,id:0,prot:1},rc:0}	5
+{app_start:6,rc:0}	5

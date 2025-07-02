@@ -1,0 +1,1 @@
+{phy_init:{id:3,type:2,speed:2000000,speed_2:2000000,id:0,prot:1},rc:0}	5

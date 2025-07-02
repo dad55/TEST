@@ -1,0 +1,2 @@
+{adc_init:{port:1,s_pre:100,s_std:100,avg:0},rc:0}	5
+{app_start:6,rc:0}	5

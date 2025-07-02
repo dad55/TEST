@@ -1,0 +1,5 @@
+{io_init:{port:1,pin:29,out:16,in:0,imcr:0,opt:6},rc:0}	5
+{io_init:{port:3,pin:23,out:0,in:0,imcr:0,opt:0},rc:0}	5
+{io_set:{port:3,pin:23,val:0},rc:0}	5
+{io_init:{port:3,pin:30,out:0,in:0,imcr:0,opt:0},rc:0}	5
+{io_set:{port:3,pin:30,val:0},rc:0}	5

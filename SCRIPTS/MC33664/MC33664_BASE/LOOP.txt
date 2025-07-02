@@ -1,0 +1,4 @@
+{io_set:{port:4,pin:27,val:1},rc:0}	0
+{adc_start:{port:1,chan:7},rc:0}	0
+{wt_ms:10,rc:0}    0
+{adc_get:{port:1,chan:7},rc:1}	0
